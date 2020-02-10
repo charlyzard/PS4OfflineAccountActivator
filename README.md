@@ -26,3 +26,9 @@ Then:
 3. Power off your PS4
 4. Power on your PS4 and enjoy the export capabilities.
 4.1. Of if you used an old account fix the problems in the Notes & Warnings section
+
+## Credits
+
+Made by barthen
+
+Thanks to jogolden for the great ps4debug and to all the PS4 scene for making this possible.
