@@ -16,7 +16,7 @@ I repeat, I recommend to use a fresh console account for the activation, but do 
 ## How to use
 
 Change the source code to:
-1. Put your console IP addres
+1. Put your console IP address
 2. Put the user number of the account you want to activate (1 if you only have one account in the console)
 3. Put your psn account id (in the code you have two methods to find it)
 
