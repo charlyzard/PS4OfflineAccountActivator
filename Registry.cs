@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace PS4OfflineAccountActivator
 {
@@ -12,7 +11,7 @@ namespace PS4OfflineAccountActivator
         public const int SIZE_account_id = 8;
         public const int SIZE_NP_env = 17;
         public const int SIZE_login_flag = 4;
-
+        public const int SIZE_user_name = 17;
 
         public int Get_Entity_Number(int a, int b, int c, int d, int e)
         {
@@ -39,8 +38,11 @@ namespace PS4OfflineAccountActivator
             return Get_Entity_Number(a, 16, 65536, 125831168, 125829120);
         }
 
+        public int KEY_user_name(int a)
+        {
+            return Get_Entity_Number(a, 16, 65536, 125829632, 125829120);
+        }
 
 
     }
-
 }
