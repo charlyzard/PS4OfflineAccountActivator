@@ -4,6 +4,8 @@ Activates PSN account on jailbroken PS4 allowing you to export save data to USB 
 
 Requires [ps4debug](https://github.com/jogolden/ps4debug) to compile
 
+![Screenshot of the program](https://github.com/charlyzard/PS4OfflineAccountActivator/blob/master/screenshots/ps4_1.png)
+
 ## Notes & Warnings
 
 It's better to use this program on a new account. If you use it on an old account (with saves and trophies) you'll encounter these problems:
@@ -15,17 +17,15 @@ I repeat, I recommend to use a fresh console account for the activation, but do 
 
 ## How to use
 
-Change the source code to:
-1. Put your console IP addres
-2. Put the user number of the account you want to activate (1 if you only have one account in the console)
-3. Put your psn account id (in the code you have two methods to find it)
-
-Then:
 1. Launch ps4debug on your PS4
 2. Launch this program on your computer
-3. Power off your PS4
-4. Power on your PS4 and enjoy the export capabilities.
-4.1. Of if you used an old account fix the problems in the Notes & Warnings section
+3. Type in your PS4 IP adress and click Connect
+4. Click Get Users
+5. Type the account id you want to activate on the proper text box. You can get your account id from the folder name of an exported save
+![Account id](https://github.com/charlyzard/PS4OfflineAccountActivator/blob/master/screenshots/ps4_2.png)
+6. Click Set Id & Activate
+7. Click Get Users again to check if it was changed properly
+8. If you used an old account with trophies then fix the problems in the Notes & Warnings section
 
 ## Credits
 
