@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS4OfflineAccountActivator", "PS4OfflineAccountActivator.csproj", "{2FBA272A-CAEC-4C13-9A30-AF318445EF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libdebug", "ps4debug\libdebug\csharp\libdebug.csproj", "{A2E25459-1CEB-4D75-82F7-F85874279DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FBA272A-CAEC-4C13-9A30-AF318445EF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBA272A-CAEC-4C13-9A30-AF318445EF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBA272A-CAEC-4C13-9A30-AF318445EF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBA272A-CAEC-4C13-9A30-AF318445EF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E25459-1CEB-4D75-82F7-F85874279DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E25459-1CEB-4D75-82F7-F85874279DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E25459-1CEB-4D75-82F7-F85874279DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E25459-1CEB-4D75-82F7-F85874279DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2212FA9C-FA29-44C0-8B27-01C899BE6118}
+	EndGlobalSection
+EndGlobal
