@@ -173,13 +173,13 @@ namespace PS4OfflineAccountActivator
 
                 stub = ps4.InstallRPC(p.pid);
 
-                sceRegMgrGetInt_addr = executable + 0x3ADF80;
-                sceRegMgrGetStr_addr = executable + 0x81BC20;
-                sceRegMgrGetBin_addr = executable + 0x81D6A0;
+                sceRegMgrGetInt_addr = executable + 0x3D55C0;
+                sceRegMgrGetStr_addr = executable + 0x846B00;
+                sceRegMgrGetBin_addr = executable + 0x848640;
 
-                sceRegMgrSetInt_addr = executable + 0x81DFB0;
-                sceRegMgrSetStr_addr = executable + 0x821A10;
-                sceRegMgrSetBin_addr = executable + 0x81D6B0;
+                sceRegMgrSetInt_addr = executable + 0x848FB0;
+                sceRegMgrSetStr_addr = executable + 0x84CFF0;
+                sceRegMgrSetBin_addr = executable + 0x848650;
 
 
                 if (ps4.IsConnected)

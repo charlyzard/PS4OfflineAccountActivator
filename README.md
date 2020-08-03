@@ -1,6 +1,8 @@
 # PS4OfflineAccountActivator
 
-Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 5.05 fw version.
+Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 6.72 fw version. You'll have to wait for jogolden  or someone else to update ps4debug for 6.72.
+
+For fw 5.05 you have the 5.05 branch.
 
 Requires [ps4debug](https://github.com/jogolden/ps4debug) to compile
 

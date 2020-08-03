@@ -122,7 +122,7 @@
             // btConnect
             // 
             this.btConnect.Location = new System.Drawing.Point(295, 25);
-            this.btConnect.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btConnect.Margin = new System.Windows.Forms.Padding(4);
             this.btConnect.Name = "btConnect";
             this.btConnect.Size = new System.Drawing.Size(113, 28);
             this.btConnect.TabIndex = 1;
@@ -133,7 +133,7 @@
             // tbIPAddress
             // 
             this.tbIPAddress.Location = new System.Drawing.Point(132, 27);
-            this.tbIPAddress.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbIPAddress.Margin = new System.Windows.Forms.Padding(4);
             this.tbIPAddress.Name = "tbIPAddress";
             this.tbIPAddress.Size = new System.Drawing.Size(140, 22);
             this.tbIPAddress.TabIndex = 2;
@@ -152,7 +152,7 @@
             // 
             this.btGetUsers.Enabled = false;
             this.btGetUsers.Location = new System.Drawing.Point(429, 25);
-            this.btGetUsers.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btGetUsers.Margin = new System.Windows.Forms.Padding(4);
             this.btGetUsers.Name = "btGetUsers";
             this.btGetUsers.Size = new System.Drawing.Size(113, 28);
             this.btGetUsers.TabIndex = 4;
@@ -173,7 +173,7 @@
             // tbPSNId1
             // 
             this.tbPSNId1.Location = new System.Drawing.Point(341, 74);
-            this.tbPSNId1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId1.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId1.Name = "tbPSNId1";
             this.tbPSNId1.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId1.TabIndex = 6;
@@ -182,7 +182,7 @@
             // 
             this.btSetAccountId1.Enabled = false;
             this.btSetAccountId1.Location = new System.Drawing.Point(648, 71);
-            this.btSetAccountId1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId1.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId1.Name = "btSetAccountId1";
             this.btSetAccountId1.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId1.TabIndex = 5;
@@ -221,7 +221,7 @@
             // tbPSNId2
             // 
             this.tbPSNId2.Location = new System.Drawing.Point(341, 106);
-            this.tbPSNId2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId2.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId2.Name = "tbPSNId2";
             this.tbPSNId2.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId2.TabIndex = 10;
@@ -230,7 +230,7 @@
             // 
             this.btSetAccountId2.Enabled = false;
             this.btSetAccountId2.Location = new System.Drawing.Point(648, 103);
-            this.btSetAccountId2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId2.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId2.Name = "btSetAccountId2";
             this.btSetAccountId2.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId2.TabIndex = 9;
@@ -260,7 +260,7 @@
             // tbPSNId3
             // 
             this.tbPSNId3.Location = new System.Drawing.Point(341, 138);
-            this.tbPSNId3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId3.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId3.Name = "tbPSNId3";
             this.tbPSNId3.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId3.TabIndex = 14;
@@ -269,7 +269,7 @@
             // 
             this.btSetAccountId3.Enabled = false;
             this.btSetAccountId3.Location = new System.Drawing.Point(648, 135);
-            this.btSetAccountId3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId3.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId3.Name = "btSetAccountId3";
             this.btSetAccountId3.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId3.TabIndex = 13;
@@ -299,7 +299,7 @@
             // tbPSNId4
             // 
             this.tbPSNId4.Location = new System.Drawing.Point(341, 170);
-            this.tbPSNId4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId4.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId4.Name = "tbPSNId4";
             this.tbPSNId4.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId4.TabIndex = 18;
@@ -308,7 +308,7 @@
             // 
             this.btSetAccountId4.Enabled = false;
             this.btSetAccountId4.Location = new System.Drawing.Point(648, 167);
-            this.btSetAccountId4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId4.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId4.Name = "btSetAccountId4";
             this.btSetAccountId4.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId4.TabIndex = 17;
@@ -338,7 +338,7 @@
             // tbPSNId5
             // 
             this.tbPSNId5.Location = new System.Drawing.Point(341, 202);
-            this.tbPSNId5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId5.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId5.Name = "tbPSNId5";
             this.tbPSNId5.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId5.TabIndex = 22;
@@ -347,7 +347,7 @@
             // 
             this.btSetAccountId5.Enabled = false;
             this.btSetAccountId5.Location = new System.Drawing.Point(648, 199);
-            this.btSetAccountId5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId5.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId5.Name = "btSetAccountId5";
             this.btSetAccountId5.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId5.TabIndex = 21;
@@ -377,7 +377,7 @@
             // tbPSNId6
             // 
             this.tbPSNId6.Location = new System.Drawing.Point(341, 234);
-            this.tbPSNId6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId6.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId6.Name = "tbPSNId6";
             this.tbPSNId6.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId6.TabIndex = 26;
@@ -386,7 +386,7 @@
             // 
             this.btSetAccountId6.Enabled = false;
             this.btSetAccountId6.Location = new System.Drawing.Point(648, 231);
-            this.btSetAccountId6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId6.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId6.Name = "btSetAccountId6";
             this.btSetAccountId6.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId6.TabIndex = 25;
@@ -416,7 +416,7 @@
             // tbPSNId7
             // 
             this.tbPSNId7.Location = new System.Drawing.Point(341, 266);
-            this.tbPSNId7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId7.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId7.Name = "tbPSNId7";
             this.tbPSNId7.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId7.TabIndex = 30;
@@ -425,7 +425,7 @@
             // 
             this.btSetAccountId7.Enabled = false;
             this.btSetAccountId7.Location = new System.Drawing.Point(648, 263);
-            this.btSetAccountId7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId7.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId7.Name = "btSetAccountId7";
             this.btSetAccountId7.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId7.TabIndex = 29;
@@ -455,7 +455,7 @@
             // tbPSNId8
             // 
             this.tbPSNId8.Location = new System.Drawing.Point(341, 298);
-            this.tbPSNId8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId8.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId8.Name = "tbPSNId8";
             this.tbPSNId8.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId8.TabIndex = 34;
@@ -464,7 +464,7 @@
             // 
             this.btSetAccountId8.Enabled = false;
             this.btSetAccountId8.Location = new System.Drawing.Point(648, 295);
-            this.btSetAccountId8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId8.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId8.Name = "btSetAccountId8";
             this.btSetAccountId8.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId8.TabIndex = 33;
@@ -494,7 +494,7 @@
             // tbPSNId9
             // 
             this.tbPSNId9.Location = new System.Drawing.Point(341, 330);
-            this.tbPSNId9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId9.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId9.Name = "tbPSNId9";
             this.tbPSNId9.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId9.TabIndex = 38;
@@ -503,7 +503,7 @@
             // 
             this.btSetAccountId9.Enabled = false;
             this.btSetAccountId9.Location = new System.Drawing.Point(648, 327);
-            this.btSetAccountId9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId9.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId9.Name = "btSetAccountId9";
             this.btSetAccountId9.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId9.TabIndex = 37;
@@ -533,7 +533,7 @@
             // tbPSNId10
             // 
             this.tbPSNId10.Location = new System.Drawing.Point(341, 362);
-            this.tbPSNId10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId10.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId10.Name = "tbPSNId10";
             this.tbPSNId10.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId10.TabIndex = 42;
@@ -542,7 +542,7 @@
             // 
             this.btSetAccountId10.Enabled = false;
             this.btSetAccountId10.Location = new System.Drawing.Point(648, 359);
-            this.btSetAccountId10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId10.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId10.Name = "btSetAccountId10";
             this.btSetAccountId10.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId10.TabIndex = 41;
@@ -572,7 +572,7 @@
             // tbPSNId11
             // 
             this.tbPSNId11.Location = new System.Drawing.Point(341, 394);
-            this.tbPSNId11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId11.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId11.Name = "tbPSNId11";
             this.tbPSNId11.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId11.TabIndex = 46;
@@ -581,7 +581,7 @@
             // 
             this.btSetAccountId11.Enabled = false;
             this.btSetAccountId11.Location = new System.Drawing.Point(648, 391);
-            this.btSetAccountId11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId11.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId11.Name = "btSetAccountId11";
             this.btSetAccountId11.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId11.TabIndex = 45;
@@ -611,7 +611,7 @@
             // tbPSNId12
             // 
             this.tbPSNId12.Location = new System.Drawing.Point(341, 426);
-            this.tbPSNId12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId12.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId12.Name = "tbPSNId12";
             this.tbPSNId12.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId12.TabIndex = 50;
@@ -620,7 +620,7 @@
             // 
             this.btSetAccountId12.Enabled = false;
             this.btSetAccountId12.Location = new System.Drawing.Point(648, 423);
-            this.btSetAccountId12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId12.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId12.Name = "btSetAccountId12";
             this.btSetAccountId12.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId12.TabIndex = 49;
@@ -650,7 +650,7 @@
             // tbPSNId13
             // 
             this.tbPSNId13.Location = new System.Drawing.Point(341, 458);
-            this.tbPSNId13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId13.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId13.Name = "tbPSNId13";
             this.tbPSNId13.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId13.TabIndex = 54;
@@ -659,7 +659,7 @@
             // 
             this.btSetAccountId13.Enabled = false;
             this.btSetAccountId13.Location = new System.Drawing.Point(648, 455);
-            this.btSetAccountId13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId13.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId13.Name = "btSetAccountId13";
             this.btSetAccountId13.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId13.TabIndex = 53;
@@ -689,7 +689,7 @@
             // tbPSNId14
             // 
             this.tbPSNId14.Location = new System.Drawing.Point(341, 490);
-            this.tbPSNId14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId14.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId14.Name = "tbPSNId14";
             this.tbPSNId14.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId14.TabIndex = 58;
@@ -698,7 +698,7 @@
             // 
             this.btSetAccountId14.Enabled = false;
             this.btSetAccountId14.Location = new System.Drawing.Point(648, 487);
-            this.btSetAccountId14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId14.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId14.Name = "btSetAccountId14";
             this.btSetAccountId14.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId14.TabIndex = 57;
@@ -728,7 +728,7 @@
             // tbPSNId15
             // 
             this.tbPSNId15.Location = new System.Drawing.Point(341, 522);
-            this.tbPSNId15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId15.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId15.Name = "tbPSNId15";
             this.tbPSNId15.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId15.TabIndex = 62;
@@ -737,7 +737,7 @@
             // 
             this.btSetAccountId15.Enabled = false;
             this.btSetAccountId15.Location = new System.Drawing.Point(648, 519);
-            this.btSetAccountId15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId15.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId15.Name = "btSetAccountId15";
             this.btSetAccountId15.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId15.TabIndex = 61;
@@ -767,7 +767,7 @@
             // tbPSNId16
             // 
             this.tbPSNId16.Location = new System.Drawing.Point(341, 554);
-            this.tbPSNId16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPSNId16.Margin = new System.Windows.Forms.Padding(4);
             this.tbPSNId16.Name = "tbPSNId16";
             this.tbPSNId16.Size = new System.Drawing.Size(297, 22);
             this.tbPSNId16.TabIndex = 66;
@@ -776,7 +776,7 @@
             // 
             this.btSetAccountId16.Enabled = false;
             this.btSetAccountId16.Location = new System.Drawing.Point(648, 551);
-            this.btSetAccountId16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSetAccountId16.Margin = new System.Windows.Forms.Padding(4);
             this.btSetAccountId16.Name = "btSetAccountId16";
             this.btSetAccountId16.Size = new System.Drawing.Size(160, 28);
             this.btSetAccountId16.TabIndex = 65;
@@ -858,9 +858,9 @@
             this.Controls.Add(this.tbIPAddress);
             this.Controls.Add(this.btConnect);
             this.Controls.Add(this.statusStrip1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainForm";
-            this.Text = "PS4 Offline Account Activator by barthen";
+            this.Text = "PS4 Offline Account Activator by barthen - 6.72 only";
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
