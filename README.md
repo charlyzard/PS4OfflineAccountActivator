@@ -1,6 +1,6 @@
 # PS4OfflineAccountActivator
 
-There is some incompatibility with GoldHEN, please see [this solution](https://github.com/charlyzard/PS4OfflineAccountActivator/issues/10) to use it properly.
+There is some incompatibility with GoldHEN, please see [this solution](https://github.com/charlyzard/PS4OfflineAccountActivator/issues/10) to use it properly. If you just run the kernel exploit (without loading GoldHEN), load ps4debug payload and run the AccountActivator it will work straight away without crashing.
 
 Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 9.00 fw version. 
 
