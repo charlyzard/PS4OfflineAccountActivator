@@ -1,5 +1,7 @@
 # PS4OfflineAccountActivator
 
+There is some incompatibility with GoldHEN, please see [this solution](https://github.com/charlyzard/PS4OfflineAccountActivator/issues/10) to use it properly.
+
 Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 9.00 fw version. 
 
 Requires [ps4debug](https://github.com/jogolden/ps4debug) to compile
